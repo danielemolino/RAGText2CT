@@ -1,4 +1,4 @@
-# 🎉🎉🎉 MICCAI 2026 ACCEPTED: RAGText2CT 🎉🎉🎉
+# 🎉🎉🎉 MICCAI 2026 ACCEPTED 🎉🎉🎉
 # 👉 Code release for **[Retrieval-Augmented Anatomical Guidance for Text-to-CT Generation](https://arxiv.org/abs/2603.08305)**
 
 Molino, D., Caruso, C. M., Soda, P., Guarrasi, V. (2026)
